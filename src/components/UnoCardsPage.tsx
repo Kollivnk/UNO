@@ -8,7 +8,7 @@ import Img4 from '../img/img4.jpg';
 
 import Music5 from '../music/friends.mp3';
 import Music2 from '../music/premi-ki-kahani.mp3'
-import Music3 from '../music/perfect.mp3';
+import Music3 from '../music/aditi.mp3';
 import Music4 from '../music/rangrez.mp3';
 
 interface UnoCardData {
@@ -48,7 +48,7 @@ const UnoCardsPage: React.FC<UnoCardsPageProps> = ({ onNext }) => {
       number: "3",
       photoUrl: Img3,
       caption: "Even though we’ve never met, chatting with you feels like home. 📱",
-      musicName: "Perfect",
+      musicName: "ganna thoo atha nahi hai phir bhi hum ghaate hai",
       musicUrl: Music3,
     },
     {
