@@ -26,10 +26,10 @@ const CardSection: React.FC<CardSectionProps> = ({ onNext }) => {
   }, []);
 
   const cardMessages = [
-  "I talk non-stop, and somehow you always reply with exactly the right words. 🎯",
-  "You're quiet, I'm loud — and that balance just works. Like magic. ✨",
-  "Even though we’ve never met, chatting with you feels like home. 📱",
-  "From classmates to best friends, all through just texts — pretty cool, right? 😄",
+  "Ninna food love ge yaaru thakkare illa! 🍕🍟 I imagine you smiling wide when your favorite food is in front of you. 'Thindi bandre Parvati happy!' 😋",
+  "You may be quiet, but your thoughts travel continents! ✈️🌍 I imagine you exploring new places silently, full happy vibes with travel playlist on.",
+  "Ninna introvert nature is your superpower. 😌 You don’t talk much, but when you do, it's gold. Idakke naanu full-time speaker! 😂",
+  "One wish — always be happy no matter what! 🌻 Ninna silent smile nalli tumba positivity ide. Just stay the same, forever Parvati. 💛",
   "Parvati, you're proof that distance means nothing when friendship is real. 🫶"
 ];
 
