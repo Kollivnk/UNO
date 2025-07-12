@@ -6,7 +6,7 @@ import Img2 from '../img/img2.jpg';
 import Img3 from '../img/img3.jpg';
 import Img4 from '../img/img4.jpg';
 
-import Music5 from '../music/ohh-meri-laila.mp3';
+import Music5 from '../music/friends.mp3';
 import Music2 from '../music/premi-ki-kahani.mp3'
 import Music3 from '../music/perfect.mp3';
 import Music4 from '../music/rangrez.mp3';
