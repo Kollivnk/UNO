@@ -40,7 +40,7 @@ const FinalComponent: React.FC = () => {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.5 }}
             >
-               You're one of those rare people who just make everything better — with your calm nature, thoughtful words, and just being *you*.
+               You're one of those rare people who just make everything better — with your calm nature, thoughtful words, and just being you.
             </motion.p>
             {/* Animated Secondary Message */}
             <motion.p
