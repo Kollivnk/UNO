@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'; 
 import { Play, Pause, ChevronRight } from 'lucide-react';
-import bgMusic from './music/ankhon.mp3';
+import bgMusic from './music/ohh-meri-laila.mp3';
 import CardSection from './components/CardSection';
 import PhotoGallery from './components/UnoCardsPage';
 import FinalComponent from './components/FinalComponent';
@@ -112,8 +112,8 @@ const MusicCard: React.FC<{
         <div className="bg-white/20 backdrop-blur-sm rounded-xl p-6 mb-6">
           <div className="flex items-center justify-between">
             <div>
-              <h3 className="text-white font-bold text-xl">Aankhon Mein Teri</h3>
-              <p className="text-white/80">Ajab si ajab si....</p>
+              <h3 className="text-white font-bold text-xl">ohhhh Meri..Lailaaaa</h3>
+              <p className="text-white/80">kaise batao lailaaaaaa......</p>
             </div>
             <button 
               onClick={togglePlay}
